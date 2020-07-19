@@ -10,6 +10,10 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
+           First Test app in git hub.
+     */
+
     public void clickFunction(View view){
         EditText userName = (EditText) findViewById(R.id.editTextTextPersonName);
         Log.i("Info", "Button pressed");

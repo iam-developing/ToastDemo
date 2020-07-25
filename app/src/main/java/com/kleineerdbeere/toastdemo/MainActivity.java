@@ -9,6 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 // Simple git test
+// Other test
 public class MainActivity extends AppCompatActivity {
 
     /*

@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 // Simple git test
 // Other test
+// Second comment
 public class MainActivity extends AppCompatActivity {
 
     /*
